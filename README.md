@@ -1,2 +1,2 @@
-# ubuntu-linux-automation
+# xc-automation
 ubuntu-test
